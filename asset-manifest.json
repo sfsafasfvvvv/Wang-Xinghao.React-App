@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wang-Xinghao.react-app/static/css/main.7c6a11a0.css",
+    "main.js": "/Wang-Xinghao.react-app/static/js/main.3ac141d7.js",
+    "static/js/453.0a36081d.chunk.js": "/Wang-Xinghao.react-app/static/js/453.0a36081d.chunk.js",
+    "static/media/header-img.png": "/Wang-Xinghao.react-app/static/media/header-img.f0502cf9a0b6ce866525.png",
+    "index.html": "/Wang-Xinghao.react-app/index.html",
+    "main.7c6a11a0.css.map": "/Wang-Xinghao.react-app/static/css/main.7c6a11a0.css.map",
+    "main.3ac141d7.js.map": "/Wang-Xinghao.react-app/static/js/main.3ac141d7.js.map",
+    "453.0a36081d.chunk.js.map": "/Wang-Xinghao.react-app/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6a11a0.css",
+    "static/js/main.3ac141d7.js"
+  ]
+}
