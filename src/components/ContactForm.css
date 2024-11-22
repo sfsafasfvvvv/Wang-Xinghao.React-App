@@ -1,0 +1,60 @@
+.callback-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1.5em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  overflow: hidden; /* Ensure no content overflows */
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 1.5em;
+}
+
+.form-group {
+  display: grid;
+  grid-template-columns: 1fr 3fr; /* Adjusted column ratio */
+  gap: 0.5em;
+  margin-bottom: 1em; /* Reduced margin between form groups */
+}
+
+label {
+  font-weight: bold;
+  color: #555;
+  align-self: center; /* Center label vertically */
+}
+
+input,
+textarea {
+  width: 80%;
+  padding: 0.6em; /* Reduced padding for smaller input fields */
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #007BFF;
+  outline: none;
+}
+
+textarea {
+  resize: vertical;
+  min-height: 50px; /* Reduced minimum height */
+}
+
+button {
+  padding: 0.7em; /* Reduced padding for button */
+  color: #fff;
+  background-color: #007BFF;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+}
